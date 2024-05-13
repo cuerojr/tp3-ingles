@@ -1,0 +1,25 @@
+
+Institution HarvardX
+Subject Informática
+Level Introductory
+Prerequisites
+None
+
+Associated programs
+Professional Certificate en Computer Science for Python Programming
+Professional Certificate en Learning Python for Data Science
+Language English
+Video Transcript English
+Associated skillsComputer Science, Web Browsers, SQL (Programming Language), Personal Computers, Data Science, Boolean Expression, Debugging, Regular Expressions, JavaScript (Programming Language), Web Development, Unit Testing, C (Programming Language), Python (Programming Language)
+Lo que aprenderás
+Omitir Lo que aprenderás
+Functions, Variables
+Conditionals
+Loops
+Exceptions
+Libraries
+Unit Tests
+File I/O
+Regular Expressions
+Object-Oriented Programming
+Et Cetera
